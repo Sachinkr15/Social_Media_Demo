@@ -1,12 +1,38 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/14debe17-1ca9-4083-8fab-e04b8000a85e)# 📝 Post Manager — Create & Delete Posts Using React State
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Post Manager**, a lightweight and beginner-friendly React project that showcases how to manage a list of posts using local component state. No backend, no database — just clean, functional front-end logic using `useState`.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ **Create Posts** — Add a new post with a title and content
+- 🗑️ **Delete Posts** — Remove a post from the list with one click
+- ⚛️ **React State Management** — All data is managed through the state.
+- 💡 **Minimal & Clean UI** — Focus on functionality with a sleek, simple interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔧 Tech Stack
+
+- ⚛️ **React**
+- 🧠 **useState , useContext, useReducer** for state management
+- 💅 **Basic CSS** for styling (Bootstrap )
+
+---
+
+## 📸 Preview
+
+![image](https://github.com/user-attachments/assets/84923811-00ba-451e-b6f9-871e48e217c3)
+
+
+---
+
+## 🛠️ Getting Started
+
+Clone the repository and run it locally:
+
+```bash
+git clone https://github.com/Sachinkr15/Social_media_Demo
+npm install
+npm start
