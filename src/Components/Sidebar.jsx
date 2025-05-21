@@ -17,7 +17,7 @@ const Sidebar = ({ SelectedTab, SetSelectedTab }) => {
         >
           <use xlinkHref="#bootstrap"></use>
         </svg>{" "}
-        <span className="fs-4">PostGram</span>{" "}
+        <span className="fs-4">Post Manager</span>{" "}
       </a>
       <hr />{" "}
       <ul className="nav nav-pills flex-column mb-auto">
